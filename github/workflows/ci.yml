@@ -1,0 +1,11 @@
+Push / Pull Request
+        ↓
+Install
+        ↓
+Lint
+        ↓
+Typecheck
+        ↓
+Unit tests
+        ↓
+Build
